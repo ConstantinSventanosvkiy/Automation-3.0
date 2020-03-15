@@ -26,7 +26,9 @@ public class MyHomeTaskLesson5 {
         return numberFirst + numberSecond;
     }
 
-    public static int minus(int numberFirst, int numberSecond) {
+    public static int minus(int numberFirst, int numberSecond)
+    {
         return numberFirst - numberSecond;
     }
 }
+
